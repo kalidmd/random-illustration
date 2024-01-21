@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Everest",
+        "src": "../images/everest.jpg",
+        "small_img": "../images/everest-small.jpg",
+        "description": "This is Everest Mountain Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, obcaecati eligendi sequi amet similique dolor, dolores expedita voluptatum debitis repellendus molestias. Cumque nemo, corrupti ex et repudiandae porro debitis necessitatibus!"
+    },
+    {
+        "title": "Lake",
+        "src": "../images/lake.jpg",
+        "small_img": "../images/lake-small.jpg",
+        "description": "This is Lake Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, obcaecati eligendi sequi amet similique dolor, dolores expedita voluptatum debitis repellendus molestias. Cumque nemo, corrupti ex et repudiandae porro debitis necessitatibus!"
+    }
+
+]

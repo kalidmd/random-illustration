@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+.card-cont {
+  display: flex;
+}
+.card-content {
+  margin: 20px auto;
+  width: 300px;
+  /* background-color: red; */
+  /* text-align: center; */
+}
+.card-title {
+  margin: 0;
+  padding-bottom: 10px;
+}
+.card-img {
+  width: 100%;
+}
+.card-text {
+  margin: 0;
+  margin-top: 5px;
+}
